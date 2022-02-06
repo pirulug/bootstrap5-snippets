@@ -1,22 +1,22 @@
 {
-    "name": "bootstrap5-snippets",
-    "displayName": "Bootstrap5 snippets",
-    "description": "Snippets bootstrap 5",
-    "publisher": "pirulug",
-    "icon": "images/icon.png",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.56.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "",
-                "path": "./snippets/snippets.code-snippets"
-            }
-        ]
-    }
+  "name": "bootstrap5-snippets",
+  "displayName": "Bootstrap5 snippets",
+  "description": "Snippets bootstrap 5",
+  "publisher": "pirulug",
+  "icon": "images/icon.png",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
 }

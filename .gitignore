@@ -1,3 +1,4 @@
 node_modules
 *.vsix
 compile
+package-lock.json

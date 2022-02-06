@@ -1,11 +1,9 @@
 # Bootstrap 5 - Snippets
-[![GitHub forks](https://img.shields.io/github/forks/pirulug/bootstrap5-snippets)](https://github.com/pirulug/bootstrap5-snippets/network)
-[![GitHub stars](https://img.shields.io/github/stars/pirulug/bootstrap5-snippets)](https://github.com/pirulug/bootstrap5-snippets/stargazers)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fpirulug%2Fbootstrap5-snippets)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fpirulug%2Fbootstrap5-snippets)
+
 ## Plantilla
-|Atajo|Description|
+|Atajo|Descripción|
 |--|---|
-|`bs5`|Plantilla inical bootstrap5 CDN|
+|`bs5`|Plantilla maestra de bootstrap5|
 
 ## Contenedores
 |Atajo|Description|
@@ -39,97 +37,97 @@
 ## Tabla
 |Atajo|Descripción|
 |-|-|
-|`bs5-table`| .able |
+|`bs5-table`| Tabla |
 
 ## Formularios
 |Atajo|Descripción|
 |-|-|
-|`bs5-input`|  |
-|`bs5-textarea`| |
-|`bs5-check`| |
-|`bs5-radio`| |
+|`bs5-input`| Formulario Input |
+|`bs5-textarea`| Formulario textare |
+|`bs5-check`| Formulario check |
+|`bs5-radio`| Formulario radio |
 
 ## Accordion
 |Atajo|Descripción|
 |-|-|
-|`bs5-accordion`| |
+|`bs5-accordion`| Acordion |
 
 ## Alert
 |Atajo|Descripción|
 |-|-|
-|`bs5-alert`| |
-|`bs5-alert-dismissable`| |
+|`bs5-alert`| Alerta |
+|`bs5-alert-dismissable`| Alerta |
 
 ## Breadcrumb
 |Atajo|Descripción|
 |-|-|
-|`bs5-breadcrumb`||
-|`bs5-breadcrumb-item`||
-|`bs5-breadcrumb-item-current`||
+|`bs5-breadcrumb`| Breadcrumb |
+|`bs5-breadcrumb-item`| Breadcrumb |
+|`bs5-breadcrumb-item-current`| Breadcrumb |
 
 ## Btn
 |Atajo|Descripción|
 |-|-|
-|`bs5-btn`||
-|`bs5-btn-group`||
-|`bs5-close-btn`||
+|`bs5-btn`| Button |
+|`bs5-btn-group`| Button |
+|`bs5-close-btn`| Button |
 
 ## Card
 |Atajo|Descripción|
 |-|-|
-|`bs5-card-all`||
-|`bs5-card`||
-|`bs5-card-header`||
-|`bs5-card-body`||
-|`bs5-card-title`||
-|`bs5-card-link`||
-|`bs5-card-image`||
-|`bs5-card-text`||
+|`bs5-card-all`| Card|
+|`bs5-card`| Card|
+|`bs5-card-header`| Card|
+|`bs5-card-body`| Card|
+|`bs5-card-title`| Card|
+|`bs5-card-link`| Card|
+|`bs5-card-image`| Card|
+|`bs5-card-text`| Card|
 
 ## Collapse
 |Atajo|Descripción|
 |-|-|
-|`bs5-collapse-btn`||
-|`bs5-collapse`||
+|`bs5-collapse-btn`| Collapse |
+|`bs5-collapse`| Collapse |
 
 ## Dropdown
 |Atajo|Descripción|
 |-|-|
-|`bs5-dropdown-btn`||
-|`bs5-dropdown-link`||
-|`bs5-dropdown-item`||
+|`bs5-dropdown-btn`| Dropdown |
+|`bs5-dropdown-link`| Dropdown |
+|`bs5-dropdown-item`| Dropdown |
 
 
 ## List group
 |Atajo|Descripción|
 |-|-|
-|`bs5-list-group`||
-|`bs5-list-group-link`||
-|`bs5-list-group-item`||
-|`bs5-list-group-item-link`||
+|`bs5-list-group`| List group |
+|`bs5-list-group-link`| List group |
+|`bs5-list-group-item`| List group |
+|`bs5-list-group-item-link`| List group |
 
 ## Modal
 |Atajo|Descripción|
 |-|-|
-|`bs5-modal`||
+|`bs5-modal`| Modal |
 
 ## Nav
 |Atajo|Descripción|
 |-|-|
-|`bs5-nav`||
-|`bs5-nav-item`||
+|`bs5-nav`| Nav |
+|`bs5-nav-item`| Nav Items|
 
 ## Pagination
 |Atajo|Descripción|
 |-|-|
-|`bs5-pagination`||
-|`bs5-pagination-icons`||
+|`bs5-pagination`| Paginacion |
+|`bs5-pagination-icons`| Paginacion |
 
 ## Otros
 |Atajo|Descripción|
 |-|-|
-|`bs5-progress-bar`||
-|`bs5-spiner`||
-|`bs5-toast`||
-|`bs5-colored-link`||
-|`bs5-ratio`||
+|`bs5-progress-bar`| Barra de progreso |
+|`bs5-spiner`| Spiner |
+|`bs5-toast`| Toast |
+|`bs5-colored-link`| Colores de link |
+|`bs5-ratio`| Ratio |
