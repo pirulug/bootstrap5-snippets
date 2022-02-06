@@ -1,19 +1,20 @@
 # Bootstrap 5 - Snippets
+![Version badge](https://img.shields.io/github/package-json/v/pirulug/bootstrap5-snippets?color=ff0055&style=for-the-badge)
 
-## Plantilla
-|Atajo|Descripción|
+## Template
+|Trigger|Description|
 |--|---|
-|`bs5`|Plantilla maestra de bootstrap5|
+|`bs5`|Bootstrap master template|
 
 ## Contenedores
-|Atajo|Description|
+|Trigger|Description|
 |---|---|
 |`bs5-container`|.container|
 |`bs5-container-fluid`|.container-fluid|
 |`bs5-container-responsive`|.container-responsive|
 
 ## Columnas y filas
-|Atajo|Descripción|
+|Trigger|Description|
 |-|-|
 |`bs5-row`|.row|
 |`bs5-col-auto`|.col-auto|
@@ -31,49 +32,49 @@
 |`bs5-col-12`|col-12|
 
 ## Imagen
-|Atajo|Descripción|
+|Trigger|Description|
 |-|-|
-|bs5-img|.img-fluid|
+|bs5-img|img fluid|
 ## Tabla
-|Atajo|Descripción|
+|Trigger|Description|
 |-|-|
-|`bs5-table`| Tabla |
+|`bs5-table`| Table |
 
 ## Formularios
-|Atajo|Descripción|
+|Trigger|Description|
 |-|-|
-|`bs5-input`| Formulario Input |
-|`bs5-textarea`| Formulario textare |
-|`bs5-check`| Formulario check |
-|`bs5-radio`| Formulario radio |
+|`bs5-input`| Form Input |
+|`bs5-textarea`| Form textarea |
+|`bs5-check`| Form check |
+|`bs5-radio`| Form radio |
 
 ## Accordion
-|Atajo|Descripción|
+|Trigger|Description|
 |-|-|
 |`bs5-accordion`| Acordion |
 
 ## Alert
-|Atajo|Descripción|
+|Trigger|Description|
 |-|-|
-|`bs5-alert`| Alerta |
-|`bs5-alert-dismissable`| Alerta |
+|`bs5-alert`| Alert |
+|`bs5-alert-dismissable`| Alert |
 
 ## Breadcrumb
-|Atajo|Descripción|
+|Trigger|Description|
 |-|-|
 |`bs5-breadcrumb`| Breadcrumb |
 |`bs5-breadcrumb-item`| Breadcrumb |
 |`bs5-breadcrumb-item-current`| Breadcrumb |
 
 ## Btn
-|Atajo|Descripción|
+|Trigger|Description|
 |-|-|
 |`bs5-btn`| Button |
 |`bs5-btn-group`| Button |
 |`bs5-close-btn`| Button |
 
 ## Card
-|Atajo|Descripción|
+|Trigger|Description|
 |-|-|
 |`bs5-card-all`| Card|
 |`bs5-card`| Card|
@@ -85,13 +86,13 @@
 |`bs5-card-text`| Card|
 
 ## Collapse
-|Atajo|Descripción|
+|Trigger|Description|
 |-|-|
 |`bs5-collapse-btn`| Collapse |
 |`bs5-collapse`| Collapse |
 
 ## Dropdown
-|Atajo|Descripción|
+|Trigger|Description|
 |-|-|
 |`bs5-dropdown-btn`| Dropdown |
 |`bs5-dropdown-link`| Dropdown |
@@ -99,7 +100,7 @@
 
 
 ## List group
-|Atajo|Descripción|
+|Trigger|Description|
 |-|-|
 |`bs5-list-group`| List group |
 |`bs5-list-group-link`| List group |
@@ -107,26 +108,26 @@
 |`bs5-list-group-item-link`| List group |
 
 ## Modal
-|Atajo|Descripción|
+|Trigger|Description|
 |-|-|
 |`bs5-modal`| Modal |
 
 ## Nav
-|Atajo|Descripción|
+|Trigger|Description|
 |-|-|
 |`bs5-nav`| Nav |
 |`bs5-nav-item`| Nav Items|
 
 ## Pagination
-|Atajo|Descripción|
+|Trigger|Description|
 |-|-|
-|`bs5-pagination`| Paginacion |
-|`bs5-pagination-icons`| Paginacion |
+|`bs5-pagination`| Pagination |
+|`bs5-pagination-icons`| Pagination |
 
 ## Otros
-|Atajo|Descripción|
+|Trigger|Description|
 |-|-|
-|`bs5-progress-bar`| Barra de progreso |
+|`bs5-progress-bar`| Progress bar |
 |`bs5-spiner`| Spiner |
 |`bs5-toast`| Toast |
 |`bs5-colored-link`| Colores de link |

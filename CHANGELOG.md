@@ -4,3 +4,6 @@
 ## Version v1.0.0 06/02/2022
 - Actualizando dependencias
 - Corrigiendo errores reportados
+## Version v1.0.1 06/02/2022
+- Actualizando dependencias
+- Corrigiendo errores
