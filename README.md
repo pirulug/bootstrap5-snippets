@@ -1,6 +1,8 @@
 # Bootstrap 5 - Snippets
 ![Version badge](https://img.shields.io/github/package-json/v/pirulug/bootstrap5-snippets?color=ff0055&style=for-the-badge)
 
+![Start](https://img.shields.io/github/stars/pirulug/bootstrap5-snippets)
+
 ## Template
 |Trigger|Description|
 |--|---|
