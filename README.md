@@ -1,7 +1,9 @@
 # Bootstrap 5 - Snippets
-![Version badge](https://img.shields.io/github/package-json/v/pirulug/bootstrap5-snippets?color=ff0055&style=for-the-badge)
 
-![Start](https://img.shields.io/github/stars/pirulug/bootstrap5-snippets)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/pirulug/bootstrap5-snippets?style=for-the-badge)
+[![GitHub stars](https://img.shields.io/github/stars/pirulug/bootstrap5-snippets?style=for-the-badge)](https://github.com/pirulug/bootstrap5-snippets/stargazers)
+[![GitHub license](https://img.shields.io/github/license/pirulug/bootstrap5-snippets?style=for-the-badge)](https://github.com/pirulug/bootstrap5-snippets/blob/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/pirulug/bootstrap5-snippets?style=for-the-badge)](https://github.com/pirulug/bootstrap5-snippets/network)
 
 ## Template
 |Trigger|Description|
