@@ -1,12 +1,12 @@
 {
   "name": "bootstrap5-snippets",
-  "displayName": "Bootstrap5 snippets",
-  "description": "Snippets bootstrap 5",
+  "displayName": "Bootstrap 5 Snippets",
+  "description": "Colección de snippets productivos para Bootstrap 5 en Visual Studio Code.",
   "publisher": "pirulug",
   "icon": "images/icon.png",
-  "version": "1.2.1",
+  "version": "1.2.3",
   "license": "MIT",
-  "homepage": "https://github.com/pirulug/bootstrap5-snippets/blob/master/README.md",
+  "homepage": "https://github.com/pirulug/bootstrap5-snippets#readme",
   "repository": {
     "type": "git",
     "url": "https://github.com/pirulug/bootstrap5-snippets.git"
@@ -15,21 +15,28 @@
     "url": "https://github.com/pirulug/bootstrap5-snippets/issues"
   },
   "engines": {
-    "vscode": "^1.56.0"
+    "vscode": "^1.60.0"
   },
-  "keywords": [
-    "bootstrap",
-    "bootstrap 5",
-    "bootstrap 5 snippets",
-    "bootstrap extensions"
-  ],
   "categories": [
     "Snippets"
+  ],
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap 5",
+    "html",
+    "frontend",
+    "snippets",
+    "vscode"
   ],
   "contributes": {
     "snippets": [
       {
-        "language": "",
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "php",
         "path": "./snippets/snippets.code-snippets"
       }
     ]
