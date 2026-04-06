@@ -200,6 +200,24 @@ Incluye layouts, grid system, formularios, componentes y utilidades comunes. Sop
 
 ---
 
+## Development
+
+If you want to contribute or build the theme from source:
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Generate the theme JSON files from the source files in `src/`:
+   ```bash
+   npm run build
+   ```
+4. Package the extension into a `.vsix` file:
+   ```bash
+   # Install vsce first if you haven't: npm install -g @vscode/vsce
+   vsce package
+
 ## Licencia
 
 Este proyecto está bajo la licencia MIT.  
