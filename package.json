@@ -4,7 +4,7 @@
   "description": "Colección de snippets productivos para Bootstrap 5 en Visual Studio Code.",
   "publisher": "pirulug",
   "icon": "images/icon.png",
-  "version": "1.2.3",
+  "version": "1.3.0",
   "license": "MIT",
   "homepage": "https://github.com/pirulug/bootstrap5-snippets#readme",
   "repository": {
@@ -37,6 +37,22 @@
       },
       {
         "language": "php",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
         "path": "./snippets/snippets.code-snippets"
       }
     ]

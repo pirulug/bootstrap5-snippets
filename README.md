@@ -1,7 +1,7 @@
 # Bootstrap 5 Snippets
 
-Colección de **snippets productivos para Bootstrap 5** pensados para acelerar el desarrollo HTML en Visual Studio Code.  
-Incluye layouts, grid system, formularios, componentes y utilidades comunes.
+Colección de **snippets productivos para Bootstrap 5** pensados para acelerar el desarrollo en Visual Studio Code.  
+Incluye layouts, grid system, formularios, componentes y utilidades comunes. Soporta **HTML, PHP, JavaScript, TypeScript, JSX y TSX**.
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/pirulug/bootstrap5-snippets?style=for-the-badge)
 [![GitHub stars](https://img.shields.io/github/stars/pirulug/bootstrap5-snippets?style=for-the-badge)](https://github.com/pirulug/bootstrap5-snippets/stargazers)
@@ -188,11 +188,15 @@ Incluye layouts, grid system, formularios, componentes y utilidades comunes.
 
 | Trigger            | Descripción      |
 | ------------------ | ---------------- |
-| `bs5-progress-bar` | Progress bar     |
-| `bs5-spinner`      | Spinner          |
-| `bs5-toast`        | Toast            |
-| `bs5-colored-link` | Link con color   |
-| `bs5-ratio`        | Ratio responsive |
+| `bs5-progress-bar` | Progress bar      |
+| `bs5-spinner`      | Spinner           |
+| `bs5-toast`        | Toast             |
+| `bs5-colored-link` | Link con color    |
+| `bs5-ratio`        | Ratio responsive  |
+| `bs5-offcanvas`    | Offcanvas         |
+| `bs5-carousel`     | Carousel          |
+| `bs5-tabs`         | Nav Tabs          |
+| `bs5-theme-toggle` | Toggle Tema (Oscuro/Claro) |
 
 ---
 
